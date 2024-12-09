@@ -29,7 +29,6 @@ C:\Users\eliel.roberto\Desktop\C#\PersonalProjeto\PersonalProjeto\PersonalProjet
 C:\Users\eliel.roberto\Desktop\C#\PersonalProjeto\PersonalProjeto\PersonalProjeto\obj\Debug\net8.0\PersonalProjeto.genruntimeconfig.cache
 C:\Users\eliel.roberto\Desktop\C#\PersonalProjeto\PersonalProjeto\PersonalProjeto\obj\Debug\net8.0\ref\PersonalProjeto.dll
 C:\Users\eliel.roberto\Desktop\C#\PersonalProjeto\PersonalProjeto\PersonalProjeto\obj\Debug\net8.0\PersonalProjeto.csproj.AssemblyReference.cache
-C:\Users\eliel.roberto\Desktop\C#\PersonalProjeto\PersonalProjeto\PersonalProjeto\bin\Debug\net8.0\ConnectionStrings.config
 C:\Users\eliel.roberto\Desktop\C#\PersonalProjeto\PersonalProjeto\PersonalProjeto\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
 C:\Users\eliel.roberto\Desktop\C#\PersonalProjeto\PersonalProjeto\PersonalProjeto\bin\Debug\net8.0\Google.Protobuf.dll
 C:\Users\eliel.roberto\Desktop\C#\PersonalProjeto\PersonalProjeto\PersonalProjeto\bin\Debug\net8.0\Humanizer.dll
@@ -233,3 +232,4 @@ C:\Users\eliel.roberto\Desktop\C#\PersonalProjeto\PersonalProjeto\PersonalProjet
 C:\Users\eliel.roberto\Desktop\C#\PersonalProjeto\PersonalProjeto\PersonalProjeto\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 C:\Users\eliel.roberto\Desktop\C#\PersonalProjeto\PersonalProjeto\PersonalProjeto\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
 C:\Users\eliel.roberto\Desktop\C#\PersonalProjeto\PersonalProjeto\PersonalProjeto\obj\Debug\net8.0\Personal.10EB6069.Up2Date
+C:\Users\eliel.roberto\Desktop\C#\PersonalProjeto\PersonalProjeto\PersonalProjeto\obj\Debug\net8.0\PersonalProjeto.sourcelink.json

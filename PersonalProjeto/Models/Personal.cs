@@ -3,7 +3,7 @@
     public class Personal
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        public string Nome { get; set; }
         public  string Cref { get; set; }
         public string Experiencia { get; set; }
 
@@ -11,10 +11,10 @@
 
         public Personal () { }
 
-        public Personal(int id, string name, string cref, string experiencia)
+        public Personal(int id, string nome, string cref, string experiencia)
         {
             Id = id;
-            Name = name;
+            Nome = nome;
             Cref = cref;
             Experiencia = experiencia;
         }

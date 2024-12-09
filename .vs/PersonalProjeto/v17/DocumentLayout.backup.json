@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|c:\\users\\eliel.roberto\\desktop\\c#\\personalprojeto\\personalprojeto\\personalprojeto\\dal\\conexaomysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|solutionrelative:personalprojeto\\dal\\conexaomysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|c:\\users\\eliel.roberto\\desktop\\c#\\personalprojeto\\personalprojeto\\personalprojeto\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|solutionrelative:personalprojeto\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|c:\\users\\eliel.roberto\\desktop\\c#\\personalprojeto\\personalprojeto\\personalprojeto\\views\\personal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|solutionrelative:personalprojeto\\views\\personal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|c:\\users\\eliel.roberto\\desktop\\c#\\personalprojeto\\personalprojeto\\personalprojeto\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|solutionrelative:personalprojeto\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|c:\\users\\eliel.roberto\\desktop\\c#\\personalprojeto\\personalprojeto\\personalprojeto\\aplicacao\\personalaplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|solutionrelative:personalprojeto\\aplicacao\\personalaplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|c:\\users\\eliel.roberto\\desktop\\c#\\personalprojeto\\personalprojeto\\personalprojeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|solutionrelative:personalprojeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|c:\\users\\eliel.roberto\\desktop\\c#\\personalprojeto\\personalprojeto\\personalprojeto\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|solutionrelative:personalprojeto\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|c:\\users\\eliel.roberto\\desktop\\c#\\personalprojeto\\personalprojeto\\personalprojeto\\views\\personal\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F36C27B2-550B-4DD2-8811-D3E7B54A4D60}|PersonalProjeto\\PersonalProjeto.csproj|solutionrelative:personalprojeto\\views\\personal\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Views\\Personal\\Index.cshtml",
-              "RelativeDocumentMoniker": "PersonalProjeto\\Views\\Personal\\Index.cshtml",
-              "ToolTip": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Views\\Personal\\Index.cshtml",
-              "RelativeToolTip": "PersonalProjeto\\Views\\Personal\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Views\\Aluno\\Index.cshtml",
+              "RelativeDocumentMoniker": "PersonalProjeto\\Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Views\\Aluno\\Index.cshtml",
+              "RelativeToolTip": "PersonalProjeto\\Views\\Aluno\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T13:54:40.98Z",
+              "WhenOpened": "2024-12-09T19:39:12.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConexaoMySql.cs",
-              "DocumentMoniker": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Dal\\ConexaoMySql.cs",
-              "RelativeDocumentMoniker": "PersonalProjeto\\Dal\\ConexaoMySql.cs",
-              "ToolTip": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Dal\\ConexaoMySql.cs",
-              "RelativeToolTip": "PersonalProjeto\\Dal\\ConexaoMySql.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "PersonalProjeto\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "PersonalProjeto\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T13:25:18.108Z",
+              "WhenOpened": "2024-12-09T19:21:58.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PersonalAplicacao.cs",
-              "DocumentMoniker": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Aplicacao\\PersonalAplicacao.cs",
-              "RelativeDocumentMoniker": "PersonalProjeto\\Aplicacao\\PersonalAplicacao.cs",
-              "ToolTip": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Aplicacao\\PersonalAplicacao.cs",
-              "RelativeToolTip": "PersonalProjeto\\Aplicacao\\PersonalAplicacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T13:22:03.49Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PersonalProjeto\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PersonalProjeto\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:12:30.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Views\\Personal\\Details.cshtml",
+              "RelativeDocumentMoniker": "PersonalProjeto\\Views\\Personal\\Details.cshtml",
+              "ToolTip": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Views\\Personal\\Details.cshtml",
+              "RelativeToolTip": "PersonalProjeto\\Views\\Personal\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:09:44.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PersonalProjeto\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\eliel.roberto\\Desktop\\C#\\PersonalProjeto\\PersonalProjeto\\PersonalProjeto\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PersonalProjeto\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T19:08:22.555Z",
               "EditorCaption": ""
             }
           ]

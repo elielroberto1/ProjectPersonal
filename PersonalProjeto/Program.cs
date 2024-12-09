@@ -1,7 +1,20 @@
+using PersonalProjeto.Aplicacao;
+using PersonalProjeto.Dal;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+
+// Adiciona o IConfiguration ao container de DI
+builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
+
+builder.Services.AddTransient<ConexaoMySql>();
+
+builder.Services.AddTransient<PersonalAplicacao>();
+builder.Services.AddTransient<AlunoAplicacao>();
+
 
 var app = builder.Build();
 
